@@ -1,7 +1,6 @@
-
 def main():
-    print("Hello World!")
-    my_function()
+    execute()
 
-def my_function():
-    print("Hello from a function")
+
+def execute():
+    print('executing')
